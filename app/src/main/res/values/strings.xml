@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+        <string-array name="catogery_array">
+            <item>Default</item>
+            <item>Meetings</item>
+            <item>Travel</item>
+            <item>Education</item>
+            <item>Sports</item>
+            <item>Day-to-Day Activity</item>
+            <item>Networking</item>
+            <item>Event</item>
+        </string-array>
+    </resources>
+
